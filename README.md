@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` file for your GitHub repository, including details about the robotics football car project and the Robo-Soccer tournament:
-
----
-
 # Robo-Soccer Tournament
 
 Welcome to the Robo-Soccer Tournament GitHub repository! This repository contains all the necessary resources, including the circuit diagrams, code, and instructions to build and program the robots used in our Robo-Soccer tournament held at IIITG under the Technocrats Club. The tournament featured exciting matches where teams competed with their customized robots in a thrilling soccer-like game.
@@ -177,6 +173,3 @@ Check out the highlights of the Robo-Soccer tournament on YouTube:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize the README file further according to your preferences!
