@@ -6,7 +6,7 @@ Here's a comprehensive `README.md` file for your GitHub repository, including de
 
 Welcome to the Robo-Soccer Tournament GitHub repository! This repository contains all the necessary resources, including the circuit diagrams, code, and instructions to build and program the robots used in our Robo-Soccer tournament held at IIITG under the Technocrats Club. The tournament featured exciting matches where teams competed with their customized robots in a thrilling soccer-like game.
 
-![Robo-Soccer Circuit Diagram](![image](https://github.com/user-attachments/assets/e0db2bba-dd12-4a1a-992c-e5fc1db77a2e)
+![Robo-Soccer Circuit Diagram](https://github.com/Naman-jain-01/robotics_football_car/blob/main/image.png)
 )
 
 ## Table of Contents
