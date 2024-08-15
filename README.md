@@ -171,7 +171,7 @@ The tournament was held in three phases:
 
 Check out the highlights of the Robo-Soccer tournament on YouTube:
 
-[![Robo-Soccer Tournament Montage](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Robo-Soccer Tournament Montage](https://youtu.be/w6gzrTsJ_w4?feature=shared)
 
 ## License
 
