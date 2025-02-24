@@ -169,7 +169,5 @@ Check out the highlights of the Robo-Soccer tournament on YouTube:
 
 [![Robo-Soccer Tournament Montage](https://img.youtube.com/vi/w6gzrTsJ_w4/0.jpg)](https://www.youtube.com/watch?v=w6gzrTsJ_w4)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
